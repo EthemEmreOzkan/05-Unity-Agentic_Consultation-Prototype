@@ -56,6 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Merge_Conflict_Test.sln",
+    "dotnet.defaultSolution": "05-Unity-Agentic_Consultation-Prototype.sln",
     "explorer.excludeGitIgnore": true
 }
